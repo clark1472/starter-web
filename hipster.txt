@@ -1,0 +1,5 @@
+http://bitly.com/git-start-web
+
+https://github.com/scm-ninja/starter-web
+
+Hi Ryan looking at Git and Github trying to figure out why I get the red untracked files example floats.html and then I run git add floats.html.  I get $ warning: CRLF will be replaced by LF in floats.html. The file will have its original line endings in your working directory. I run it a second time $ git add floats.html and I get nothing back. I was looking for green floats.html file changes to be commited.  It says it added the floats.html file but I don't see the file in green. Can you figure out what I do wrong?
