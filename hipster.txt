@@ -3,3 +3,5 @@ http://bitly.com/git-start-web
 https://github.com/scm-ninja/starter-web
 
 Hi Ryan looking at Git and Github trying to figure out why I get the red untracked files example floats.html and then I run git add floats.html.  I get $ warning: CRLF will be replaced by LF in floats.html. The file will have its original line endings in your working directory. I run it a second time $ git add floats.html and I get nothing back. I was looking for green floats.html file changes to be commited.  It says it added the floats.html file but I don't see the file in green. Can you figure out what I do wrong?
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
